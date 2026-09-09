@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Max (@max-walker3111) 👋
 
-<!--
-**max-walker3111/max-walker3111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+London-based frontend dev. Currently freelancing and trying not to break production.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- 🛠️ Building client web apps with React, Next.js, and TypeScript
+- 🎨 Making Tailwind layouts that don't fall apart on mobile
+- 📚 Messing around with Web Audio API on weekends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Core:** TypeScript, JavaScript (ESNext), React, Next.js
+- **Styling & Tooling:** TailwindCSS, CSS Modules, Vite, Git
+- **Testing:** Vitest, React Testing Library
+
+#### Find me
+- Email: `max.walker.dev@pm.me`
+- LinkedIn: [in/maxwalker-dev](#)
+- Bluesky/Twitter: `@maxwalker_dev`
